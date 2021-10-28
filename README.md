@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nesyou01
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Flutter framework
+- 🌱 I’m currently learning Kotlin
 
 <!---
 nesyou01/nesyou01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
