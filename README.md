@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @nesyou01
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Kotlin
+<h1 align="center">👋 Hello world! I'm @Younes</h1> <!-- LOGIN => username -->
 
-<!---
-nesyou01/nesyou01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👤 About me
+
+I am a passionate self-taught android and backend developer.
+
+
+### 💬 Some facts
+
+* <img src="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" width="20px"  height="20px" />
+* 📅 Coding since 2018.
+* 👨‍💻 Android is ❤️.
+* 🌐 I have a [portfolio website](https://nesyou01.github.io/) with some more information.
+* 📫 Reach me @ [uneslagmah@gmail.com](mailto:uneslagmah@gmail.com).
+* ⚡ Languages: Kotlin, Php, Javascript, Java
+
+-----------------------------------------------------------------------------------------------------------------------
